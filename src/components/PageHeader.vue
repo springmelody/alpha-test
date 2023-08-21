@@ -1,6 +1,6 @@
 <template>
   <header class="header">
-    <page-logo :logoSize="43" textSize="40"></page-logo>
+    <page-logo logoSize="43" textSize="40"></page-logo>
   </header>
 </template>
 

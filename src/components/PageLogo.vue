@@ -12,12 +12,12 @@ export default {
   name: "PageLogo",
   props: {
     logoSize: {
-      type: Number,
-      default: 43,
+      type: String,
+      default: "43",
     },
     textSize: {
-      type: Number,
-      default: 40,
+      type: String,
+      default: "40",
     },
   },
 };

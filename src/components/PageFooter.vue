@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-    <page-logo :logoSize="32" :textSize="30"></page-logo>
+    <page-logo logoSize="32" textSize="30"></page-logo>
     <p class="copyright">© alpha, 2023</p>
   </footer>
 </template>
